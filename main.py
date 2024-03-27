@@ -4,7 +4,7 @@ from quiz_brain import QuizBrain
 from menu import Menu
 import random
 import os
-# This is a change
+
 def clear_terminal():
     if os.name == 'nt':
         os.system('cls')
